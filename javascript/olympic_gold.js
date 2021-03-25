@@ -1,3 +1,4 @@
+//  https://www.codewars.com/kata/57d06663eca260fe630001cc/train/javascript
 function olympicRing(a){
     let len = a.length;
     let count=0;
