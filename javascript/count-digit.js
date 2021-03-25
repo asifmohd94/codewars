@@ -4,5 +4,6 @@ function nbDig(n, d) {
     for (var g=0;g<=n;g++){
       var square=(g*g+"").split("");
       square.forEach((s)=>s==d?res++:null)
-    }return res;
+    }
+    return res;
 }
